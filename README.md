@@ -6,8 +6,8 @@ This is probably the shortest code to implement realtime emotion monitoring.
 
 ## Dependencies
 
-- [deepface](https://github.com/serengil/deepface): A deep learning facial analysis library that provides pre-trained models for facial emotion detection. It relies on TensorFlow for the underlying deep learning operations.
-- [OpenCV](https://opencv.org/): An open-source computer vision library used for image and video processing.
+- [deepface]: A deep learning facial analysis library that provides pre-trained models for facial emotion detection. It relies on TensorFlow for the underlying deep learning operations.
+- [OpenCV]: An open-source computer vision library used for image and video processing.
 
 ## Usage
 ### Initial steps:
